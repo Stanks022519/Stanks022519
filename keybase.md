@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Stanks022519
-- 👀 I’m interested in mining coins and making money
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on my weaknesses 
-- 📫 You can reach me @moonwalker or Joesmo5150@outlook.com
-
 ### Keybase proof
 
 I hereby claim:
